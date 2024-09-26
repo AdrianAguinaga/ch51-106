@@ -1,0 +1,13 @@
+main {
+    display: flex;
+}
+#list{
+    flex: 3;
+    background-color: aqua;    
+    height: 70vh;    
+}
+#form{
+    background-color: beige;
+    flex: 3;
+    height: 30vh;    
+}
