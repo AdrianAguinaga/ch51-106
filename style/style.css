@@ -4,10 +4,10 @@ main {
 #list{
     flex: 3;
     background-color: aqua;    
-    height: 70vh;    
+    height: 100vh;    
 }
 #form{
     background-color: beige;
     flex: 3;
-    height: 30vh;    
+    height: 100vh;    
 }
